@@ -274,7 +274,7 @@ p.tj_journal {
 .tabfront { background-color:#d4dde6; }
 .tabhead {
   white-space:nowrap;
-  background-color: red;
+  background-color:#7a7a7a;
   color:#ffffff;
   text-align:center;
 }
